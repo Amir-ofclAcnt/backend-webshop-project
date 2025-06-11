@@ -66,9 +66,9 @@ curl -X POST http://localhost:8080/api/orders \
 -H "Content-Type: application/json" \
 -d '{
   "customerInfo": {
-    "name": "Amir Husseini",
-    "email": "amir@example.com",
-    "address": "Frihetsvägen 33"
+    "name": "John Doe",
+    "email": "john@example.com",
+    "address": "Fifth Avenue"
   },
   "items": [
     {
